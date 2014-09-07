@@ -26,6 +26,11 @@ Learn shortcuts while programming using Sublime Text 3.
 - CMD + R **Goto symbol, Goto word in current file**
 - Click "Find Results" left Gutter **Go to file and line**
 
+## Installing
+
+Submitting to Sublime Package Control.
+
+
 ## Compatibility
 
 Sublime Text 3
