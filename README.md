@@ -1,7 +1,7 @@
-CodeBuddy
+Code Buddy
 =========
 
-Learn sublime text 3 shortcuts while programming.
+Learn shortcuts while programming using Sublime Text 3.
 
 ## Shortcuts offered by package
 
