@@ -55,7 +55,7 @@ https://www.sublimetext.com/docs/3/api_reference.html#sublime.Region
 
 ### Alternate delivery of info
 
-Commented out are previously popups of the now native notifications, it is trivial to reinstate these in the case that none work. Contact me if struggling.
+Initially native sublime popups were using to provide shortcuts. These were too intrusive and unavoidable. However they are commented out, such that in the case of technical difficulty due to dependencies/compatibility the full function of the package can be experienced.
 
 ### License
 
